@@ -1,6 +1,6 @@
 ## Olá, esse é o meu GitHub 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansilva-2003&layout=compact&theme=codeSTACKr" alt="Top Languages">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansilva-2003&layout=compact&theme=codeSTACKr" alt="Top Languages">-->.
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryansilva-2003-Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Ryansilva-2003-JS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
