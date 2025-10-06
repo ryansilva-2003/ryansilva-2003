@@ -1,10 +1,10 @@
-<h1><p align="center">## Olá, esse é o meu GitHub</p></h1>
+<h3><p align="center">## Olá, esse é o meu GitHub</p></h3>
 <p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação 👨‍💻</p>
 Olá! Eu sou o Ryan, estudante de Ciência da Computação.  
 Estou sempre buscando aprender coisas novas, testar projetos e colocar a mão na massa.  
 Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado constante, criando soluções reais e registrando meu progresso aqui no GitHub.
 <hr>
-<h2>Tecnologias</h2>
+<h3>Tecnologias</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryansilva-2003-Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Ryansilva-2003-JS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
