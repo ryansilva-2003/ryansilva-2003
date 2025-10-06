@@ -2,7 +2,7 @@
   <tr>
     <td>
 <h2><p align="center"> Olá, esse é o meu GitHub</p></h2>
-<h5><p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação 👨‍💻</p></h5>
+<h4><p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação 👨‍💻</p></h4>
 Estou sempre buscando aprender coisas novas, testar projetos e colocar a mão na massa.  
 Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado constante e registrando meu progresso aqui no GitHub.
 <h3>Tecnologias💻</h3>
