@@ -1,3 +1,6 @@
+<table>
+  <tr>
+    <td>
 <h2><p align="center"> Olá, esse é o meu GitHub</p></h2>
 <h4><p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação 👨‍💻</p></h4>
 Olá! Eu sou o Ryan, estudante de ADS.  
@@ -13,6 +16,9 @@ Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado
 </div>
   </td>
 <hr>
+    <td>
 <p align="center">
 <img src="https://i.pinimg.com/1200x/fe/18/4a/fe184a8b8c9c00cc2b5b7d89a086f215.jpg" alt="Perfil" width="400"/>
-</p>
+    </td>
+  </tr>
+</table>
