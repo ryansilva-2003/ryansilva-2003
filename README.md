@@ -3,10 +3,8 @@
     <td>
 <h2><p align="center"> Olá, esse é o meu GitHub</p></h2>
 <h4><p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação</p></h4>
-<ul>
-<li>Buscando aprender coisas novas, testar projetos e colocar a mão na massa.  
-Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado constante e registrando meu progresso aqui no GitHub.</li>
-</ul>
+Buscando aprender coisas novas, testar projetos e colocar a mão na massa.  
+Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado constante e registrando meu progresso aqui no GitHub.
 <h3>Tecnologias💻</h3>
 <div style="display: inline_block">
   
