@@ -16,7 +16,7 @@ Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado
   </td>
     <td>
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4yelb8d-8Np4irWtaWE434o1es4GoRAF2Q&s" alt="Perfil" width="400"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4yelb8d-8Np4irWtaWE434o1es4GoRAF2Q&s" alt="Perfil" width="600"/>
     </td>
   </tr>
 </table>
