@@ -1,4 +1,4 @@
-<p align="center">## Olá, esse é o meu GitHub</p>
+<h2><p align="center">## Olá, esse é o meu GitHub</p></h2>
 <hr>
 <p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação 👨‍💻</p>
 <div style="display: inline_block"><br>
