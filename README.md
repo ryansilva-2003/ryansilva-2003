@@ -1,5 +1,4 @@
 ## Olá, esse é o meu GitHub 
-<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryansilva-2003-Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Ryansilva-2003-JS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
