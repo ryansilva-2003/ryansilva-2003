@@ -1,4 +1,5 @@
 <p align="center">## Olá, esse é o meu GitHub</p>
+<hr>
 <p align="center">Eu sou Ryan, estudando Análise e Desenvolvimento de Sistemas e desenvolvedor em formação 👨‍💻</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryansilva-2003-Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
