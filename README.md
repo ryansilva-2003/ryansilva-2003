@@ -14,10 +14,9 @@ Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado
   <img align="center" alt="Ryansilva-2003-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   </td>
-<hr>
     <td>
 <p align="center">
-<img src="https://i.pinimg.com/1200x/fe/18/4a/fe184a8b8c9c00cc2b5b7d89a086f215.jpg" alt="Perfil" width="400"/>
+<img src="[https://i.pinimg.com/1200x/fe/18/4a/fe184a8b8c9c00cc2b5b7d89a086f215.jpg](https://i.pinimg.com/1200x/9a/50/89/9a5089a5b40ba349b3ecf86931d8fe73.jpg)" alt="Perfil" width="400"/>
     </td>
   </tr>
 </table>
