@@ -3,7 +3,7 @@
 Olá! Eu sou o Ryan, estudante de Ciência da Computação.  
 Estou sempre buscando aprender coisas novas, testar projetos e colocar a mão na massa.  
 Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado constante, criando soluções reais e registrando meu progresso aqui no GitHub.
-<h3>Tecnologias</h3>
+<h3>Tecnologias💻</h3>
 <ul>
 <div style="display: inline_block">
   <img align="center" alt="Ryansilva-2003-Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
