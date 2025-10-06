@@ -14,5 +14,5 @@ Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado
   </td>
 <hr>
 <p align="center">
-<img src="https://i.pinimg.com/1200x/fe/18/4a/fe184a8b8c9c00cc2b5b7d89a086f215.jpg" alt="Perfil" width="800"/>
+<img src="https://i.pinimg.com/1200x/fe/18/4a/fe184a8b8c9c00cc2b5b7d89a086f215.jpg" alt="Perfil" width="400"/>
 </p>
