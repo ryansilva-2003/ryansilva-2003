@@ -18,6 +18,7 @@ Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 <p></p>
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansilva-2003&layout=compact&theme=radical)
 
