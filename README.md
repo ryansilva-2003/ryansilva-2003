@@ -3,7 +3,7 @@
     <td>
 <h2><p align="center"> Olá, esse é o meu GitHub👨‍💻</p></h2>
 <h4><p align="center">estudando ADS e desenvolvedor em formação</p></h4> 
-Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado constante e registrando meu progresso aqui no GitHub.
+Meu objetivo é evoluir como desenvolvedor registrando meu progresso aqui no GitHub.
 <h3>Tecnologias💻</h3>
 <div style="display: inline_block">
   
