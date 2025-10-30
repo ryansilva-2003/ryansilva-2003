@@ -14,7 +14,9 @@ Meu objetivo é evoluir como desenvolvedor através da prática e do aprendizado
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
   </td>
