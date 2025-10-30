@@ -19,7 +19,7 @@ Meu objetivo é evoluir como desenvolvedor registrando meu progresso aqui no Git
 </div>
   </td>
     <td>
-<img src="https://i.pinimg.com/1200x/cf/44/ba/cf44ba08b668473bc57e33a0d7ab6490.jpg" alt="Perfil" width="350"/>
+<img src="https://i.pinimg.com/1200x/cf/44/ba/cf44ba08b668473bc57e33a0d7ab6490.jpg" alt="Perfil" width="250"/>
     </td>
   </tr>
 </table>
