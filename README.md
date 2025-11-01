@@ -2,8 +2,10 @@
   <tr>
     <td>
 <h2><p align="center"> Olá, esse é o meu GitHub👨‍💻</p></h2>
-<h4><p align="center">estudando ADS</p></h4> 
-Meu objetivo é evoluir como desenvolvedor registrando meu progresso aqui no GitHub.
+<h4><p align="center">estudando ADS</p></h4>
+<ul>
+    <li>Meu objetivo é evoluir como desenvolvedor registrando meu progresso aqui no GitHub.</li>
+</ul>
 <h3>Tecnologias💻</h3>
 <div style="display: inline_block">
   
