@@ -1,11 +1,9 @@
 <table>
   <tr>
     <td>
-<h2><p align="center"> Olá, esse é o meu GitHub👨‍💻</p></h2>
-<h4><p align="center">estudando ADS</p></h4>
-<ul>
-    <li>Meu objetivo é evoluir como desenvolvedor registrando meu progresso aqui no GitHub.</li>
-</ul>
+<h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Olá%2C+esse+é+o+meu+GitHub!+👨‍💻)](https://git.io/typing-svg)</h2>
 <h3>Tecnologias💻</h3>
 <div style="display: inline_block">
   
@@ -18,6 +16,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
 </div>
   </td>
     <td>
