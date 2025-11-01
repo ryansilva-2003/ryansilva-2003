@@ -1,5 +1,4 @@
 <table>
-  <tr>
     <td>
 <h2>
 
@@ -24,5 +23,4 @@
     <td>
 <img src="https://i.pinimg.com/1200x/cf/44/ba/cf44ba08b668473bc57e33a0d7ab6490.jpg" alt="Perfil" width="250"/>
     </td>
-  </tr>
 </table>
