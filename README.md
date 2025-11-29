@@ -24,6 +24,6 @@
 </div>
   </td>
     <td>
-<img src="https://i.pinimg.com/736x/1b/80/6a/1b806aaf727d49ac4d3d12e7f2dea8cd.jpg" alt="Perfil" width="500"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNlMmpjdjhkM2lhMHcxcmFsM29vNTI2b2Z5enh1MmNrNnJvanI0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Perfil" width="400"/>
     </td>
 </table>
