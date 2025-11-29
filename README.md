@@ -24,6 +24,6 @@
 </div>
   </td>
     <td>
-<img src="https://i.pinimg.com/1200x/cf/44/ba/cf44ba08b668473bc57e33a0d7ab6490.jpg" alt="Perfil" width="350"/>
+<img src="https://i.pinimg.com/736x/1b/80/6a/1b806aaf727d49ac4d3d12e7f2dea8cd.jpg" alt="Perfil" width="500"/>
     </td>
 </table>
