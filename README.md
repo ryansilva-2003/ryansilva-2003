@@ -20,7 +20,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-
 </div>
   </td>
     <td>
