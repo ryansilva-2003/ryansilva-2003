@@ -22,7 +22,4 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 </div>
   </td>
-    <td>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNlMmpjdjhkM2lhMHcxcmFsM29vNTI2b2Z5enh1MmNrNnJvanI0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Perfil" width="300"/>
-    </td>
 </table>
