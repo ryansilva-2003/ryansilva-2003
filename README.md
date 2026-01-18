@@ -6,6 +6,7 @@
 <ul>
     <li>📚Estudando ADS</li>
     <li>PowerBI e Dados</li>
+    <li>Python</li>
 </ul>
 <h3>Tecnologias💻</h3>
 <div style="display: inline_block">
