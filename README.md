@@ -1,16 +1,20 @@
 <table>
-    <td>
-<h2>
+    <tr>
+<h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Olá%2C+esse+é+o+meu+GitHub!+👨‍💻)](https://git.io/typing-svg)</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Olá%2C+esse+é+o+meu+GitHub!+👨‍💻)](https://git.io/typing-svg)</h1>
+
+<h3>About Me</h3>
 <ul>
-    <li>📚Estudando ADS</li>
-    <li>PowerBI e Dados</li>
-    <li>Python</li>
+    <li>São Paulo - SP</li>
+    <li>Analista de Dados Júnior</li>
+    <li>Estudando Análise e Desenvolvimento de Sistemas</li>
+    <li>Tenho 22 anos e estudo programação desde os 15 anos</li>
 </ul>
+
 <h3>Tecnologias💻</h3>
 <div style="display: inline_block">
-  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,8 +23,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </div>
-  </td>
+  </tr>
+
+  <tr>
+      <figure>
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyMWIyYTMzazg5MWtrZzB0MDV0eThubTA3cmtjcDlhZmtmM3F3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IV7MOCfnm85iRa/giphy.gif" />
+      </figure>
+  </tr>
 </table>
