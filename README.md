@@ -1,5 +1,6 @@
 <table>
     <tr>
+        <td style="vertical-align: top;">
 <h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Olá%2C+esse+é+o+meu+GitHub!+👨‍💻)](https://git.io/typing-svg)</h1>
@@ -26,11 +27,10 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </div>
-  </tr>
+</td>
 
-  <tr>
-      <figure>
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFyMWIyYTMzazg5MWtrZzB0MDV0eThubTA3cmtjcDlhZmtmM3F3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IV7MOCfnm85iRa/giphy.gif" />
-      </figure>
+<td style="vertical-align: top;">
+    <img src="https://i.pinimg.com/736x/e9/10/15/e91015b376e475087869e364ec5e5bdb.jpg" style="max-width: 100%;">
+</td>
   </tr>
 </table>
