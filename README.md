@@ -30,7 +30,7 @@
 </td>
 
 <td style="vertical-align: top;">
-    <img src="https://i.pinimg.com/736x/44/bc/7a/44bc7af31a598d89893aed1b92737f2e.jpg" style="max-width: 100%;">
+    <img src="https://i.pinimg.com/736x/44/bc/7a/44bc7af31a598d89893aed1b92737f2e.jpg" style="max-width: 100% height: 200px;">
 </td>
   </tr>
 </table>
