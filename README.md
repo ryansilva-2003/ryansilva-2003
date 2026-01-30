@@ -10,7 +10,7 @@
     <li>São Paulo - SP</li>
     <li>Analista de Dados Júnior</li>
     <li>Estudando Análise e Desenvolvimento de Sistemas</li>
-    <li>Tenho 22 anos e estudo programação desde os 15 anos </li>
+    <li>Tenho 22 anos e estudo programação desde os 15 anos</li>
 </ul>
 
 <h3>Tecnologias💻</h3>
