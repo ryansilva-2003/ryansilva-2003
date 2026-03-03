@@ -8,7 +8,7 @@
 <h3>About Me</h3>
 <ul>
     <li>São Paulo - SP </li>
-    <li>Analista de Dados</li>
+    <li>Desenvolvedor</li>
     <li>Estudando Análise e Desenvolvimento de Sistemas (5/5)</li>
     <li>Tenho 22 anos e estudo programação desde os 15 anos</li>
 </ul>
